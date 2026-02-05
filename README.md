@@ -100,7 +100,7 @@ technical_interview/
 
 ## Authored by
 
-Matthew Michael Sherlin
+Michael Mariano
 
 ## License
 
